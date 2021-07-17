@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Bae à!',
-    introDesc: `Trái đất vốn lạ thường,
-    Mà sao em cứ đi nhầm đường,
-    Lạc vào tim anh lẻ loi,
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Bé Rei ơiii!',
+    introDesc: `Trái đất vốn lạ thường
+    mà sao em cứ đi nhầm đường
+    mạc vào tim anh lẻ loi
+    đằng sau chữ yêu đây là thương`,
     btnIntro: 'Ấn vô tiếp đi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Bởi vì em yêu anh <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Yêu em nhiều lắm nhó <333.',
+    messDesc: 'Yêu bé nhiều lắm nhó <333.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://m.me/lam21122001' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
